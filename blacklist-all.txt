@@ -1,18 +1,3 @@
-# ReportedIP Blacklist - All IPs
-# https://reportedip.com
-#
-# Copyright (c) 2026 ReportedIP / Patrick Schlesinger
-# Licensed under CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
-#
-# Daily snapshot, new addresses appear after 48 hours.
-# Live data: WordPress https://reportedip.com/products/wordpress-plugin/
-#            Linux     https://reportedip.com/products/linux-agent/
-#            API       https://reportedip.com/products/api/
-#
-# Generated: 2026-11-12
-# Total IPs: 11902
-#
-
 188.190.13.121
 2.57.121.25
 160.79.106.19
